@@ -50,7 +50,7 @@ img[alt="www.000webhost.com"]{
 	font-weight: bold;
 	font-size: calc(2vw + 3vh);
 	padding: 10% 5% 5% 5%;
-	font-family: 'Righteous', cursive;
+	font-family: 'Georgia', serif;
 }
 .sico{
 	padding-left: 20%;
@@ -65,7 +65,7 @@ table a{
 html,body{
 	height: 100%;
 	width: 100%;
-	font-family: 'Righteous', cursive !important;
+	font-family: 'Georgia', serif !important;
 }
 .summary{
 	background-color: #FFFFFF;
@@ -128,18 +128,18 @@ html,body{
 }
 .skillhd{
 	font-size: 40px;
-	font-family: 'Righteous', cursive;
+	font-family: 'Georgia', serif;
 }
 .skillsub{
 	font-size: 30px;
-	font-family: 'Righteous', cursive;
+	font-family: 'Georgia', serif;
 	width: 100%;
 	text-align: center;
 	overflow: hidden;
 }
 .skilltxt{
 		font-size: 24px;
-	font-family: 'Righteous', cursive;
+	font-family: 'Georgia', serif;
 	margin-bottom: 30px;
 }
 .ratouter{
@@ -197,7 +197,7 @@ html,body{
 	display: block;
 }
 .rfont{
-		font-family: 'Righteous', cursive;
+		font-family: 'Georgia', serif;
 		color: white;
 }
 .exphead{
